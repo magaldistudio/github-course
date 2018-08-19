@@ -5,12 +5,8 @@
  Repositorio teste para ensinar como git funciona.
 
  Segunda linha de teste para git.
-
- terceira linha de teste para aprender a commitar.
- quarta modificaçao teste para gravar na mente.
-
-quinta alteraçao para teste.
-....
-...
-
-oopoooooooooooooooooooooooooo'Gostou de aprender.
+ Terceira linha de teste para aprender a commitar.
+ Quarta modificaçao teste para gravar na mente.
+ Quinta alteraçao para teste.
+ 
+ Curso de Github.Excelente!
